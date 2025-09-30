@@ -1,2 +1,4 @@
-exercício 2:o programa faz varias interações ,num ciclo infinito ,adicionando +1 ao numero e dando print do numero atual no fim,exepto  se o numero for ==3 pois programa vai dar skip no ciclo atual do loop,e quando for > que 5 o loop acaba
+exercício 2:o programa faz varias interações num ciclo infinito
+adicionando +1 ao numero e dando print do numero atual no fim,exepto  se o numero for ==3
+pois programa vai dar skip no ciclo atual do loop,e quando for > que 5 o loop acaba
 
