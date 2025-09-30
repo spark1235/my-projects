@@ -1,5 +1,17 @@
-a=int(input("digitie o numero A: "))
-b=int(input("digite o numero b: "))
+palavras = ["computador", "sol", "maça", "livro", "biblioteca"]
 
-x=(a+b)*15
-print("o resultado do x e:",x)
+
+maior = 0
+menor = 100
+
+
+for palavra in palavras:
+    if len(palavra) > maior:
+        maior = len(palavra)
+        index_maior=palavra
+    if len(palavra) < menor:
+        menor = len(palavra)
+
+print("Lista de palavras:", palavras)
+print("Maior palavra:", maior, "letras", index_maior)
+print("Menor palavra:", menor, "letras )")
