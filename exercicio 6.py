@@ -1,6 +1,3 @@
-# Máquina calculadora simples em Python (sem interface gráfica)
-# Esta calculadora realiza as quatro operações básicas: soma, subtração, multiplicação e divisão
-
 def soma(a, b):
     # Somar dois números
     return a + b
